@@ -4,3 +4,5 @@
 
  Took the classic game of snake an tried to add my own twists to the game.
  Tried to implement a web service to the game and a high score
+ 
+ UNCOMPLETED PROJECTED
